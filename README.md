@@ -1,5 +1,5 @@
 # Cars_Price_Prediction
-In this project, I first analyze and pre-process a dataset of used car prices from CarDekho, and then in order to increase the performance of the model, I use polynomial regression. Finally, I try to estimate the price of a car from the given data.
+In this project, I first analyze and pre-process a dataset of used car prices from CarDekho, and then in order to increase the performance of the model, I use polynomial regression. Finally, I try to estimate the price of a car from a given data.
 
 # Dataset Description:
 Vehicle dataset from CarDekho, available at Kaggle: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
